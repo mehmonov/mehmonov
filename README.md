@@ -1,7 +1,6 @@
-# 👋 Hello there! I'm [Your Name]
+# 👋 Hello there! I'm Husniddin
 
-I'm a passionate Python developer with a deep curiosity for how computers and the internet work. I enjoy building clean, efficient systems, learning new programming paradigms, and digging into low-level to>
-
+I'm a passionate Python developer with a deep curiosity for how computers and the internet work. I enjoy building clean, efficient systems, learning new programming paradigms, and digging into low-level topics like operating systems, networking, and language internals
 ---
 
 ## 🧠 About Me
@@ -28,7 +27,7 @@ I'm a passionate Python developer with a deep curiosity for how computers and th
 
 You can use GitHub Readme Stats for a cool touch:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?mehmonov=mehmonov&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmonov&show_icons=true&theme=radical)
 
 ---
 
