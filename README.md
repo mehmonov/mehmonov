@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Husniddin
+# I'm Husniddin
 
 I'm a passionate Python developer with a deep curiosity for how computers and the internet work. I enjoy building clean, efficient systems, learning new programming paradigms, and digging into low-level topics like operating systems, networking, and language internals
 ---
